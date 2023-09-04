@@ -78,5 +78,5 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	golang.org/x/mobile v0.0.0-20220414153400-ce6a79cf6a13
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
